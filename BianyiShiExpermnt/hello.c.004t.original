@@ -1,0 +1,11 @@
+
+;; Function main (null)
+;; enabled by -tree-original
+
+
+{
+  printf ((const char * restrict) "I love to learn new things!");
+  return 0;
+}
+return 0;
+

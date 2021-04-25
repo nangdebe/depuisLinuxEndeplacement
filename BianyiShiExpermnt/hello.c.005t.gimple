@@ -1,0 +1,14 @@
+main ()
+{
+  int D.2317;
+
+  {
+    printf ("I love to learn new things!");
+    D.2317 = 0;
+    return D.2317;
+  }
+  D.2317 = 0;
+  return D.2317;
+}
+
+

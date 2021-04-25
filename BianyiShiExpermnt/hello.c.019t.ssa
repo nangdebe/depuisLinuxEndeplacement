@@ -1,0 +1,19 @@
+
+;; Function main (main, funcdef_no=0, decl_uid=2314, cgraph_uid=1, symbol_order=0)
+
+main ()
+{
+  int D.2317;
+  int _3;
+
+  <bb 2> :
+  printf ("I love to learn new things!");
+  _3 = 0;
+
+  <bb 3> :
+<L0>:
+  return _3;
+
+}
+
+
